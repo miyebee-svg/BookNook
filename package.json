@@ -1,0 +1,21 @@
+{
+  "name": "booknook",
+  "version": "1.0.0",
+  "description": "A cozy book review platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "dev": "npx serve -l 3000",
+    "python": "python -m http.server 8000"
+  },
+  "keywords": [
+    "book",
+    "review",
+    "web-programming"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
